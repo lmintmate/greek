@@ -1,0 +1,9 @@
+#+title: Yet another emacs keymap for polytonic Greek
+
+I’m used to writing Greek with the modern Greek layout. This is quite different from any of the greek layouts offered with emacs in a way jarring to me. I found soon that someone had already made a package for what I wanted ; a layout that would provide polytonic Greek while also keeping the regular keyboard layout I was used to ([[https://web.archive.org/web/20190524095118/http://myria.math.aegean.gr/~atsol/emacs-unicode/][here]]).\\
+However, as of the end of January 2020, this site was suddenly inaccessible, which meant that I had to keep my existing copies of these files, or I wouldn't be able to find them again. I thus created this repository, in order to keep a backup of these files.\\
+Characteristics of this layout:
+- One can get oxeia and vareia by using ; and ` respectively + a vowel e.g. ; + a = ά, ` + a = ὰ
+- One can get perispomeni by using ~ + a vowel e.g. ~ + a = ᾶ
+- One can get pneumata (daseia and psili) by using < and > respectively + a letter e.g. < + a = ἁ, > + a = ἀ
+- Combinations of the above accents can be created by inputting the accents first (pneumata, then tonoi) and then the letter e.g. < + ; + a = ἅ
