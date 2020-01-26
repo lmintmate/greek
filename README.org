@@ -6,4 +6,5 @@ Characteristics of this layout:
 - One can get oxeia and vareia by using ; and ` respectively + a vowel e.g. ; + a = ά, ` + a = ὰ
 - One can get perispomeni by using ~ + a vowel e.g. ~ + a = ᾶ
 - One can get pneumata (daseia and psili) by using < and > respectively + a letter e.g. < + a = ἁ, > + a = ἀ
-- Combinations of the above accents can be created by inputting the accents first (pneumata, then tonoi) and then the letter e.g. < + ; + a = ἅ
+- One cat get dialytika by using : + a vowel e.g. : + i = ϊ
+- Combinations of the above can be created by inputting the accents first (pneumata or dialytika, then tonoi) and then the letter e.g. < + ; + a = ἅ, : + ; + i = ΐ
