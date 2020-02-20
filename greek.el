@@ -1719,8 +1719,8 @@ nil t t nil nil nil nil nil nil nil t)
  (";" ?$,1r](B) ; oxia
  ("W" ?,F7(B) ; ano teleia
  (";." ?,F7(B) ; ano teleia
- ("?" ?;) ; erotimatiko
- (":" ?") ; dialytika
+ ("?" ?$,1&^(B) ; erotimatiko
+ (":" ?,A((B) ; dialytika
  ("|" ?$,1&Z(B) ; ypogegrammeni
  (";<" ?,F+(B) ; left quotes
  (";>" ?,F;(B) ; right quotes
